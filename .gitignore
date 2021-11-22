@@ -1,1 +1,8 @@
+# direcory
+temp
 
+# file
+*.log
+
+# exception
+#!debug.log
