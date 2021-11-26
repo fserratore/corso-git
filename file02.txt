@@ -1,2 +1,5 @@
 new text file
+add more lines
 update from master
+line2
+line3
